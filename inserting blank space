@@ -1,0 +1,6 @@
+public class LetterY {
+    public static void main(String[] args) {
+        System.out.println("+251911921892\naddisabab");
+        
+    }
+}
